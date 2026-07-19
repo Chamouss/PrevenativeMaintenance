@@ -14,4 +14,3 @@ Submit completed punchlists for review
 Why it exists
 
 The goal is to make preventive maintenance faster, easier to follow, and less error-prone than managing everything in a spreadsheet.
-https://github.com/Chamouss/PrevenativeMaintenance/blob/main/IMG_6930.PNG
